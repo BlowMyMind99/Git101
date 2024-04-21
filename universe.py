@@ -1,0 +1,2 @@
+Hallo = False
+Feierabend = True
