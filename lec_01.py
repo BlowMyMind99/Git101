@@ -17,3 +17,7 @@ for key in config['DEFAULT']:
 from universe import *
 print (Feierabend)
 
+import turtle
+screen = turtle.Screen()
+bob = turtle.Turtle()
+
